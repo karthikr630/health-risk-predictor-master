@@ -552,13 +552,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👩‍💻 Author
 
-**Manisha Priya**  
-Backend Developer | ML Engineer | DevOps Enthusiast
+**Karthik**  
+Software Developer | ML Engineer | DevOps Enthusiast
 
 Building scalable, production-ready systems with modern tech stacks.
 
-- 📧 Email: [your-email@example.com](manishapriya1325@gmail.com)
-- 🐙 GitHub: [@M1325-source](https://github.com/M1325-source)
+- 📧 Email: [your-email@example.com](karthikreddy63010@gmail.com)
+- 🐙 GitHub: [@M1325-source](https://github.com/karthikr630)
 
 ---
 
@@ -572,8 +572,8 @@ Building scalable, production-ready systems with modern tech stacks.
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/M1325-source/health-risk-predictor/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/M1325-source/health-risk-predictor/discussions)
+- **Issues**: [GitHub Issues](https://github.com/karthikr630/health-risk-predictor/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/karthikr630/health-risk-predictor/discussions)
 - **Email**: Open an issue for support requests
 
 ---
